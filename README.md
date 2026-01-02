@@ -1,7 +1,7 @@
 # **SUMMARY**
 
 
-This project analyses the statistical significance of a marketing A/B test results using conversion data. It performs a two-sample proportion z-test to determine whether the difference in conversion rates between two groups is likely to be real or due to chance.
+This project analyses the statistical significance of a website A/B test results using conversion data. It performs a two-sample proportion z-test to determine whether the difference in conversion rates between two groups is likely to be real or due to chance.
 
 <br>
 
